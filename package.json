@@ -1,0 +1,25 @@
+{
+  "name": "minisheet",
+  "version": "1.0.0",
+  "description": "Mini Spreadsheet",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "build"
+  },
+  "build": {
+    "appId": "pt.motivus.minisheet",
+    "asar": true,
+    "win": {
+      "target": "portable",
+      "publisherName": "motivus.pt",
+      "icon": "build/icon.ico"
+    },
+    "dmg": {}
+  },
+  "author": "Carlos Cabral @ motivus.pt",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
