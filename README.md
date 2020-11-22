@@ -3,8 +3,16 @@
 
 Run a spreadsheet for simple math to avoid opening Google Docs, Excel, etc... - package as an Electron app, browser extension, etc...
 
+## Install
+Clone this repo and then:
+```
+yarn install
+```
+
 ## Run
-`yarn start`
+```
+yarn start
+```
 
 ## Package as Electron App
 #### MacOS
