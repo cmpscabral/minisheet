@@ -1,7 +1,9 @@
 # minisheet
-**Mini Spreadsheet application**
+**Tiny spreadsheet application**
 
 Run a spreadsheet for simple math to avoid opening Google Docs, Excel, etc... - package as an Electron app, browser extension, etc...
+
+![minisheet screenhot](https://raw.githubusercontent.com/cmpscabral/minisheet/main/screenshot.png)
 
 ## Install
 Clone this repo and then:
